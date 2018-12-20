@@ -1,0 +1,33 @@
+﻿  binary_option.cpp
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\option.h(10): error C2512: 'Date': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\date.h(3): note: 'Date' 선언을 참조하십시오.
+  gbmprocess.cpp
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\termstructure.h(21): error C2504: 'TermStructure': 기본 클래스를 정의하지 않았습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\termstructure.h(29): error C2504: 'TermStructure': 기본 클래스를 정의하지 않았습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\gbmprocess.cpp(6): error C3254: 'TermStructure': 클래스에 명시적 재정의 'getRf'이(가) 포함되어 있지만 함수 선언을 포함하는 인터페이스에서 파생되지 않습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\gbmprocess.cpp(6): error C2838: 'getRf': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\gbmprocess.cpp(12): error C3254: 'TermStructure': 클래스에 명시적 재정의 'getDiv'이(가) 포함되어 있지만 함수 선언을 포함하는 인터페이스에서 파생되지 않습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\gbmprocess.cpp(12): error C2838: 'getDiv': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\gbmprocess.cpp(18): error C3254: 'TermStructure': 클래스에 명시적 재정의 'getVol'이(가) 포함되어 있지만 함수 선언을 포함하는 인터페이스에서 파생되지 않습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\gbmprocess.cpp(18): error C2838: 'getVol': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\termstructure.h(6): fatal error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
+  main.cpp
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\option.h(5): error C2011: 'OptionType': 'enum' 형식 재정의
+  c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\analytic bs.h(3): note: 'OptionType' 선언을 참조하십시오.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\option.h(10): error C2512: 'Date': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\date.h(3): note: 'Date' 선언을 참조하십시오.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\main.cpp(144): error C2371: 'vol': 재정의. 기본 형식이 다릅니다.
+  c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\main.cpp(85): note: 'vol' 선언을 참조하십시오.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\main.cpp(149): error C2371: 'k': 재정의. 기본 형식이 다릅니다.
+  c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\main.cpp(85): note: 'k' 선언을 참조하십시오.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\main.cpp(168): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\main.cpp(168): error C2661: 'PlainVanillaOption::PlainVanillaOption': 오버로드된 함수에서 2개의 매개 변수를 사용하지 않습니다.
+  option.cpp
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\option.h(10): error C2512: 'Date': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\date.h(3): note: 'Date' 선언을 참조하십시오.
+  plainvanilla_option.cpp
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\option.h(10): error C2512: 'Date': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\date.h(3): note: 'Date' 선언을 참조하십시오.
+  TermSturcture.cpp
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\hw\hw\termsturcture.cpp(7): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...

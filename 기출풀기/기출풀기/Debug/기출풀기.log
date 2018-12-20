@@ -1,0 +1,6 @@
+﻿  header.cpp
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\기출풀기\기출풀기\header.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\기출풀기\기출풀기\header.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\기출풀기\기출풀기\header.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\기출풀기\기출풀기\header.cpp(41): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우람\desktop\kaist\3차학기\프로그래밍2\기출풀기\기출풀기\header.cpp(49): error C2440: 'return': 'double'에서 'double *'(으)로 변환할 수 없습니다.
